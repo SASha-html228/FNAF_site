@@ -187,8 +187,8 @@ font-size: 15px;
 
 .back_to_FNAF1{
   background-color:#222831;
-    position: absolute;
-    left: 500px;
+  position: absolute;
+    left: 350px;
     padding: 15px;
     width: 100px;
     text-decoration: none;
@@ -199,8 +199,20 @@ font-size: 15px;
 
 .back_to_FNAF2{
   background-color:#222831;
-    position: absolute;
-    left: 700px;
+  position: absolute;
+    left: 550px;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size:20px;
+    color:white;
+    border-radius:15px;
+}
+
+.back_to_FNAF3{
+  background-color:#222831;
+  position: absolute;
+    left: 750px;
     padding: 15px;
     width: 100px;
     text-decoration: none;
