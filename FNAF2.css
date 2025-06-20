@@ -179,9 +179,12 @@ h3{
     height: 250px;
 }
 
-footer nav a{
-    position: absolute;
-    left: 550px;
+
+
+.back_to_FNAF1{
+  background-color:#222831;
+        position: absolute;
+    left: 450px;
     padding: 15px;
     width: 100px;
     text-decoration: none;
@@ -190,8 +193,14 @@ footer nav a{
     border-radius:15px;
 }
 
-
-
-.back_to_FNAF1{
+.back_to_FNAF2{
   background-color:#222831;
+        position: absolute;
+    left: 450px;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size:20px;
+    color:white;
+    border-radius:15px;
 }
