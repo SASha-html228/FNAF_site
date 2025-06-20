@@ -184,9 +184,11 @@ font-size: 15px;
     font-size: 30px;
 }
 
-footer nav a{
+
+.back_to_FNAF1{
+  background-color:#222831;
     position: absolute;
-    left: 550px;
+    left: 500px;
     padding: 15px;
     width: 100px;
     text-decoration: none;
@@ -195,14 +197,16 @@ footer nav a{
     border-radius:15px;
 }
 
-
-
-.back_to_FNAF1{
-  background-color:#222831;
-}
-
 .back_to_FNAF2{
   background-color:#222831;
+    position: absolute;
+    left: 550px;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size:20px;
+    color:white;
+    border-radius:15px;
 }
 
 
